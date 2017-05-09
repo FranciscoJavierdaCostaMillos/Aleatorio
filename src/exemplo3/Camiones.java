@@ -16,6 +16,7 @@ public class Camiones extends Vehiculo{
         super(matricula, marca, potencia);
         this.remolque=remolque;
     }
+    
 
     @Override
     public String toString() {
